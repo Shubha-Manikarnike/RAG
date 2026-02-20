@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-anthropic
+langchain-groq
+anthropic
+groq
+fastapi
+uvicorn[standard]
+sentence-transformers
+chromadb
+pandas
+openpyxl
+tabulate
+python-dotenv
+watchdog
